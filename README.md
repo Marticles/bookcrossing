@@ -11,7 +11,7 @@
 BookCrossing is a website based on flask for book exchange.The main functions are as follows:  
 
 - [x] 用户注册登录(Registration/login)
-- [x] 书籍搜索:基于豆瓣读书API(Search for books:based on DouBan API)
+- [x] 书籍搜索:基于豆瓣读书API(Search for books:Based on DouBan API)
 - [x] 上传书籍(Upload books)
 - [x] 赠送书籍(Send books)
 - [x] 心愿书籍(Wish books)
