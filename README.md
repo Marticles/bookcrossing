@@ -15,8 +15,8 @@ BookCrossing is a website based on flask for book exchange.The main functions ar
 - [x] 上传书籍                 (Upload books)
 - [x] 赠送书籍                 (Send books)
 - [x] 心愿书籍                 (Wish books)
-- [x] 书籍交换:邮件通知         (Exchange books:It will send you a eamil)
-- [x] 密码找回:邮件通知         (Retrieve password:It will send you a eamil)
+- [x] 书籍交换:邮件通知         (Exchange books:It will send you an eamil)
+- [x] 密码找回:邮件通知         (Retrieve password:It will send you an eamil)
 - [x] 虚拟书币:用于书籍交换     (Virtual book coins:For book exchange)
 - [x] 对明文密码加密、加盐       (Encrypt password:Salting)
 
