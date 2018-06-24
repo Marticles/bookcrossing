@@ -30,7 +30,7 @@ BookCrossing is a website based on flask for book exchange.The main functions ar
 * Werkzeug 0.14.1
 * WTForms 2.2
 * itsdangerous 0.24
-* cymsql 0.9.10
+* cymysql 0.9.10
 
 
 

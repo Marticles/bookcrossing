@@ -6,8 +6,9 @@ class BookViewModel(object):
         self.binding = data['binding']
         self.publisher = data['publisher']
         self.image = data['image']
+        self.image = self.image.replace('/view/subject/m/public/','//view//subject//m//public/')
         self.price = '￥' + data['price'] if data['price'] else data['price']
-        self.isbn = data['isbn']
+        self.isbn = data['isbn13']
         self.pubdate = data['pubdate']
         self.summary = data['summary']
         self.pages = data['pages']
