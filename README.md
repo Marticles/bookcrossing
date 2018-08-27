@@ -4,12 +4,12 @@
 ![](https://img.shields.io/badge/language-python-orange.svg)
 
 ![Image](img/index.PNG)
-## 说明
+## 说明(Description)
 书漂网是一个基于Flask开发的书籍交换网站。主要功能如下：  
 
 BookCrossing is a website based on flask for book exchange.The main functions are as follows:  
 
-- [x] 用户注册登录             (Registration/login)
+- [x] 用户注册登录             (Registration/Login)
 - [x] 书籍搜索:基于豆瓣读书API  (Search for books:Based on DouBan API)
 - [x] 上传书籍                 (Upload books)
 - [x] 赠送书籍                 (Send books)
@@ -19,7 +19,7 @@ BookCrossing is a website based on flask for book exchange.The main functions ar
 - [x] 虚拟书币:用于书籍交换     (Virtual book coins:For book exchange)
 - [x] 对明文密码加密、加盐       (Encrypt password:Salting)
 
-## 依赖
+## 依赖(Requirements)
 * Python3.6.4
 * Flask 1.0.2
 * Flask-Login 0.4.1
@@ -33,10 +33,10 @@ BookCrossing is a website based on flask for book exchange.The main functions ar
 
 
 
-## 服务器环境
+## 服务器环境(Server Environment)
 ![Image](img/server.PNG)
 
-## 文件组织
+## 文件组织(File Organization)
 ```
 -- bookcrossing
     |-- Pipfile
@@ -76,7 +76,7 @@ BookCrossing is a website based on flask for book exchange.The main functions ar
     |-- run.py
 ```
 
-##  展示
+##  展示(Images)
 #### 书籍详情
 ![Image](img/detail.PNG)
 #### 赠送书籍 
