@@ -1,5 +1,4 @@
 # 书漂网 - BookCrossing
-[![Build Status](https://travis-ci.org/mtianyan/hexoBlog-Github.svg?branch=master)](https://travis-ci.org/mtianyan/hexoBlog-Github)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 ![](https://img.shields.io/badge/language-python-orange.svg)
 
@@ -7,7 +6,7 @@
 ## Description
 BookCrossing is a website based on flask for book exchange.The main functions are as follows:  
 
-- [x] Search for books:Based on DouBan API)
+- [x] Search for books:Based on DouBan API
 - [x] Upload books
 - [x] Send books
 - [x] Wish books
