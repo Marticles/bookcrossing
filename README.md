@@ -4,22 +4,19 @@
 ![](https://img.shields.io/badge/language-python-orange.svg)
 
 ![Image](img/index.PNG)
-## 说明(Description)
-书漂网是一个基于Flask开发的书籍交换网站。主要功能如下：  
-
+## Description
 BookCrossing is a website based on flask for book exchange.The main functions are as follows:  
 
-- [x] 用户注册登录             (Registration/Login)
-- [x] 书籍搜索:基于豆瓣读书API  (Search for books:Based on DouBan API)
-- [x] 上传书籍                 (Upload books)
-- [x] 赠送书籍                 (Send books)
-- [x] 心愿书籍                 (Wish books)
-- [x] 书籍交换:邮件通知         (Exchange books:It will send you an eamil)
-- [x] 密码找回:邮件通知         (Retrieve password:It will send you an eamil)
-- [x] 虚拟书币:用于书籍交换     (Virtual book coins:For book exchange)
-- [x] 对明文密码加密、加盐       (Encrypt password:Salting)
+- [x] Search for books:Based on DouBan API)
+- [x] Upload books
+- [x] Send books
+- [x] Wish books
+- [x] Exchange books:It will send you an eamil
+- [x] Retrieve password:It will send you an eamil
+- [x] Virtual book coins:For book exchange
+- [x] Encrypt password:Salting
 
-## 依赖(Requirements)
+## Requirements
 * Python3.6.4
 * Flask 1.0.2
 * Flask-Login 0.4.1
@@ -31,12 +28,10 @@ BookCrossing is a website based on flask for book exchange.The main functions ar
 * itsdangerous 0.24
 * cymysql 0.9.10
 
-
-
-## 服务器环境(Server Environment)
+## Server Environment)
 ![Image](img/server.PNG)
 
-## 文件组织(File Organization)
+## File Organization
 ```
 -- bookcrossing
     |-- Pipfile
@@ -76,21 +71,19 @@ BookCrossing is a website based on flask for book exchange.The main functions ar
     |-- run.py
 ```
 
-##  展示(Images)
-#### 书籍详情
+##  Images
+#### Book details
 ![Image](img/detail.PNG)
-#### 赠送书籍 
+#### Send books 
 ![Image](img/gift.PNG)
-#### 心愿书籍
+#### Wish books
 ![Image](img/wish.PNG)
-#### 交易历史 
+#### Exchange history 
 ![Image](img/history.PNG)
-#### 交换请求
+#### Exchange request
 ![Image](img/request.PNG)
-#### 邮件通知
+#### Mail Notifier
 ![Image](img/email.PNG)
-
-
 
 
 
