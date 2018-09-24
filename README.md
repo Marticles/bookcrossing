@@ -1,18 +1,18 @@
-# 书漂网 - BookCrossing
+# BookCrossing
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 ![](https://img.shields.io/badge/language-python-orange.svg)
 
 ![Image](img/index.PNG)
 ## Description
-BookCrossing is a website based on flask for book exchange.The main functions are as follows:  
+BookCrossing is a website based on flask for book exchange which provides the following.
 
-- [x] Search for books:Based on DouBan API
+- [x] Search for books: Based on DouBan API
 - [x] Upload books
 - [x] Send books
 - [x] Wish books
-- [x] Exchange books:It will send you an eamil
-- [x] Retrieve password:It will send you an eamil
-- [x] Virtual book coins:For book exchange
+- [x] Exchange books: It will send you an eamil
+- [x] Retrieve password: It will send you an eamil
+- [x] Virtual book coins: For book exchange
 - [x] Encrypt password:Salting
 
 ## Requirements
@@ -27,7 +27,7 @@ BookCrossing is a website based on flask for book exchange.The main functions ar
 * itsdangerous 0.24
 * cymysql 0.9.10
 
-## Server Environment)
+## Server Environment
 ![Image](img/server.PNG)
 
 ## File Organization
@@ -70,7 +70,7 @@ BookCrossing is a website based on flask for book exchange.The main functions ar
     |-- run.py
 ```
 
-##  Images
+##  Screenshot
 #### Book details
 ![Image](img/detail.PNG)
 #### Send books 
