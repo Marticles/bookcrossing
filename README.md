@@ -30,7 +30,7 @@ BookCrossing is a website based on flask for book exchange which provides the fo
 ## Server Environment
 ![Image](img/server.PNG)
 
-## File Organization
+## File Structure
 ```
 -- bookcrossing
     |-- Pipfile
